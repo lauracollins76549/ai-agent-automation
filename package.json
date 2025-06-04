@@ -1,0 +1,10 @@
+{
+  "name": "ai-agent-automation",
+  "version": "0.1.0",
+  "description": "Modular AI agent workflow automation platform with schedulers, tools, and observability. https://vmdeshpande.github.io/ai-automation-platform-website/",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
