@@ -1,6 +1,6 @@
 {
   "name": "ai-agent-automation",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Modular AI agent workflow automation platform with schedulers, tools, and observability. https://vmdeshpande.github.io/ai-automation-platform-website/",
   "main": "src/index.ts",
   "scripts": {
